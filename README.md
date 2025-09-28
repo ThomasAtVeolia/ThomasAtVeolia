@@ -21,4 +21,4 @@ I am an **Application Engineer** at **Veolia Water Technologies & Solutions**.
 - Create innovative solutions for water and resource conservation
 
 ## Contact
-📫 Feel free to connect via GitHub!
+📫 Feel free to connect via GitHub or LinkedIn!
